@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://111.205.6.234:9091/app-download/eamAppdownloadServlet?filename=Eam_2.5.29_.ipa</string>
+					<string>https://static.create-chain.net/ccmall/eb/99/db/462b7992084d49a0a2cfcd41a959dfa1.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.eamas.cmcc</string>
+				<string>com.weijuit.ccmall</string>
 				<key>bundle-version</key>
-				<string>2.5.29</string>
+				<string>1.9.13</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>EAM</string>
+				<string>CCMALL</string>
 			</dict>
 		</dict>
 	</array>
