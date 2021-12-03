@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://111.205.6.234:9091/app-download/eamAppdownloadServlet?filename=Eam_2.5.29_.ipa</string>
+					<string>http://43.135.10.84:8089/download/im.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.eamas.cmcc</string>
+				<string>com.im3.2021110702</string>
 				<key>bundle-version</key>
-				<string>2.5.29</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>EAM</string>
+				<string>微聊</string>
 			</dict>
 		</dict>
 	</array>
