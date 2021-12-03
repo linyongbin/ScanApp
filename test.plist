@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://43.135.10.84:8089/download/im.ipa</string>
+					<string>https://tr-internet-hospital-test.oss-cn-shenzhen.aliyuncs.com/im/im.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
